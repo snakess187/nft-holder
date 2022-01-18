@@ -1,1 +1,1 @@
-# nft-holder
+# Sticky Zoo
